@@ -26,7 +26,7 @@
   * [python bucket sort](sort/python_bucket_sort)
   * [binary insertion sort](sort/binary%20insertion%20sort.cpp)
   * [slow sort](sort/Slow_Sort)
-  * [Cocktail Selection Sort](sort/Cocktail Selection Sort)
+  * [Cocktail Selection Sort](sort/Cocktail%20Selection%20Sort)
   * [Circle sort](sort/circle_sort)
   * [Gnome sort](sort/gnome_sort)
   * [Intro sort](sort/intro_sort)
@@ -74,7 +74,7 @@
   * [morse cipher](cryptography/morse_cipher)
   * [porta cipher](cryptography/porta_cipher)
   * [rot13 cipher](cryptogrpahy/rot13_cipher)
-  * [rsa](cryptography/rsa)
+  * [RSA](cryptography/RSA)
   * [running key cipher](cryptography/runningkey_cipher)
   * [caesar cipher](cryptography/caesar_cipher)
   * [substitution cipher](cryptography/substitution_cipher)
@@ -166,3 +166,5 @@
   * [wordsearch](backtracking/wordsearch)
 * [Synchronization](synchronization)
   * [Producer consumer problem](synchronization/ProducerConsumer)
+  * [Row and column summations using mutex ](synchronization/ArraysOperationsWithMutex)
+  
